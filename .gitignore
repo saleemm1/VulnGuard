@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+venv/
+detailed_security_log.log
